@@ -8,7 +8,7 @@
 
 :space_invader: My hobbies include tinkering with computers,  philately, reading comics and playing video games :video_game:
 
-[![LinkedInBadge](https://img.shields.io/badge/-akhilsudh-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akhilsudh) [![GmailBadge](https://img.shields.io/badge/-akhil.sudh@gmail.com-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhil.sudh@gmail.com) [![Link](https://img.shields.io/badge/-akhilsudh.github.io-black?style=for-the-badge)](akhilsudh.github.io/) [![Medium](https://img.shields.io/badge/-Geek_In_Yellow-478f76?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/geek-in-yellow) 
+[![LinkedInBadge](https://img.shields.io/badge/-akhilsudh-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilsudh) [![GmailBadge](https://img.shields.io/badge/-akhil.sudh@gmail.com-B23121?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhil.sudh@gmail.com) [![Link](https://img.shields.io/badge/-akhilsudh.github.io-black?style=for-the-badge)](https://akhilsudh.github.io/) [![Medium](https://img.shields.io/badge/-Geek_In_Yellow-478f76?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/geek-in-yellow) 
 <!--
 **Akhilsudh/Akhilsudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
