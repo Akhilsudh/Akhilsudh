@@ -1,6 +1,6 @@
 ## Hi there, Akhil here 👋🏽
 #### I'm a Software Developer based in Bangalore, India.
-👨🏽‍💻 I currently work full-time at **Micro Focus**
+👨🏽‍💻 I currently work full-time at **[Micro Focus](https://www.microfocus.com/en-us/home)**
 
 ⚙️ I use `.java`, `.python`, `.sql`, `.sh`, `.html`, `.css`, `.js`, `.json` day to day
 
